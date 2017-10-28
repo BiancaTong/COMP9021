@@ -1,0 +1,11 @@
+A single line
+A line 5
+Another single line
+A line 4
+A line 3
+Another single line
+A line 2
+A line 1
+A line 0
+A line -1
+A single line
