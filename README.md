@@ -1,2 +1,1 @@
-# COMP9021
-2017 S1
+Computer Science with Python3.5
